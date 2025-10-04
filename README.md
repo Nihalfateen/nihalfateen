@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Nihal Fateen
 
-<!--
-**Nihalfateen/nihalfateen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Mobile App Developer** | 📍 Based in Portugal  
+I specialize in building modern, scalable apps with **Flutter** and have 3+ years of experience in fintech, e-commerce, and stock applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 MSc Student in Computer Engineering at University of Aveiro (2025)
+- 🔭 Currently exploring **AI & Data Engineering**
+- 🌱 Learning advanced **GraphQL** and **system design**
+- 🤝 Open to collaboration on Flutter & AI projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages & Frameworks**: Dart, Flutter, Python, GraphQL, REST APIs  
+- **Tools**: Firebase, Git/GitHub, Provider, Docker  
+- **Other Interests**: Information Retrieval, AI, Data Engineering
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/nihal-fateen-9a871a190/)  
+- 📧 nihalahmedfateen@gmail.com 
+
+⭐️ From [NihalFateen](https://github.com/NihalFateen)
