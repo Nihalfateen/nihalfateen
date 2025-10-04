@@ -4,7 +4,7 @@
 I specialize in building modern, scalable apps with **Flutter** and have 3+ years of experience in fintech, e-commerce, and stock applications.
 
 ### 🚀 About Me
-- 🎓 MSc Student in Computer Engineering at University of Aveiro (2025)
+- 🎓 MSc Student in Robotics and Intelligent systems at University of Aveiro (2025)
 - 🔭 Currently exploring **AI & Data Engineering**
 - 🌱 Learning advanced **GraphQL** and **system design**
 - 🤝 Open to collaboration on Flutter & AI projects
