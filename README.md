@@ -1,21 +1,30 @@
-# Hi there 👋, I'm Nihal Fateen
+# 👋 Hi there, I'm Nihal Fateen  
 
-💻 **Mobile App Developer** | 📍 Based in Portugal  
-I specialize in building modern, scalable apps with **Flutter** and have 3+ years of experience in fintech, e-commerce, and stock applications.
+💻 **Python Developer | AI & Mobile Engineer**  
+📍 Based in Portugal  
 
-### 🚀 About Me
-- 🎓 MSc Student in Robotics and Intelligent systems at University of Aveiro (2025)
-- 🔭 Currently exploring **AI & Data Engineering**
-- 🌱 Learning advanced **GraphQL** and **system design**
-- 🤝 Open to collaboration on Flutter & AI projects
+---
 
-### 🛠️ Skills
-- **Languages & Frameworks**: Dart, Flutter, Python, GraphQL, REST APIs  
-- **Tools**: Firebase, Git/GitHub, Provider, Docker  
-- **Other Interests**: Information Retrieval, AI, Data Engineering
+### 🚀 About Me  
+- 🎓 MSc Student in **Robotics and Intelligent Systems** at the **University of Aveiro** (Expected 2025)  
+- 💡 Passionate about **AI, Data Engineering, and Backend Development**  
+- 🧩 Currently enhancing my skills in **Python frameworks**, **system design**, and **data processing**  
+- 🤝 Open to collaborating on **AI-driven**, **backend**, or **automation projects**
 
-### 📫 Connect with Me
+---
+
+### 🛠️ Technical Skills  
+- **Languages & Frameworks**: Python, Flask, FastAPI, Dart, Flutter, GraphQL, REST APIs  
+- **Databases & Tools**: Firebase, PostgreSQL, Git/GitHub, Docker, Provider  
+- **Core Expertise**: API Development, Data Processing, Information Retrieval, System Integration  
+
+---
+
+### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nihal-fateen-9a871a190/)  
-- 📧 nihalahmedfateen@gmail.com 
+- 📧 nihalahmedfateen@gmail.com  
+- 🌐 [GitHub](https://github.com/NihalFateen)
+
+---
 
 ⭐️ From [NihalFateen](https://github.com/NihalFateen)
