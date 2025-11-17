@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Nihal Fateen  
 
-💻 **Python Developer | AI & Mobile Engineer**  
-📍 Based in Portugal  
+💻 **Python Developer | AI & Mobile Engineer**   
 
 ---
 
